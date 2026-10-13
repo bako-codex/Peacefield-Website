@@ -33,10 +33,11 @@ export default function Footer() {
         <div>
           <h4 className="font-display font-bold">Contact</h4>
           <ul className="mt-4 space-y-2.5 text-sm text-white/50">
-            <li>12 Peacefield Avenue, Lagos, Nigeria</li>
-            <li>admissions@peacefield.edu.ng</li>
-            <li>+234 800 000 0000</li>
-            <li>Mon – Fri · 7:30am – 4:00pm</li>
+            <li>42, Adaloko Road, Afromedia, Lagos, Nigeria</li>
+            <li>J.karirienokaro@gmail.com</li>
+            <li>Enquires.peacefield@gmail.com</li>
+            <li>+234 803 606 7636</li>
+            <li>Mon – Fri · 7:30am – 5:00pm</li>
           </ul>
         </div>
       </div>

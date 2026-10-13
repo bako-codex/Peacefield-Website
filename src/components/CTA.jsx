@@ -29,10 +29,10 @@ export default function CTA() {
               Start an Application
             </a>
             <a
-              href="tel:+2348000000000"
+              href="tel:+234803 606 7636"
               className="rounded-full border border-white/25 px-8 py-4 font-semibold transition-all hover:border-brand hover:text-brand"
             >
-              <FaPhoneAlt className="mr-2 inline-block text-sm" /> +234 800 000 0000
+              <FaPhoneAlt className="mr-2 inline-block text-sm" /> +234 803 606 7636
             </a>
           </div>
         </div>
